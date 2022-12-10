@@ -1,0 +1,1860 @@
+fileFormatVersion: 2
+guid: d130560f281dcb04f8f4ba99f28dc220
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3746583073104978423
+    second: damla-tutan-3-assets-transformed_0
+  - first:
+      213: 5861748758744967943
+    second: damla-tutan-3-assets-transformed_1
+  - first:
+      213: 3712545928062238608
+    second: damla-tutan-3-assets-transformed_2
+  - first:
+      213: 6400625152150248541
+    second: damla-tutan-3-assets-transformed_3
+  - first:
+      213: -4119053117497750118
+    second: damla-tutan-3-assets-transformed_4
+  - first:
+      213: 6890679681874328657
+    second: damla-tutan-3-assets-transformed_5
+  - first:
+      213: 6901141130983555239
+    second: damla-tutan-3-assets-transformed_6
+  - first:
+      213: -3210309070572053572
+    second: damla-tutan-3-assets-transformed_7
+  - first:
+      213: -1291131760237489332
+    second: damla-tutan-3-assets-transformed_8
+  - first:
+      213: 5169308474731101258
+    second: damla-tutan-3-assets-transformed_9
+  - first:
+      213: 6657143573844346141
+    second: damla-tutan-3-assets-transformed_10
+  - first:
+      213: 809684592811391719
+    second: damla-tutan-3-assets-transformed_11
+  - first:
+      213: -4555882066822576780
+    second: damla-tutan-3-assets-transformed_12
+  - first:
+      213: -1074591676854490848
+    second: damla-tutan-3-assets-transformed_13
+  - first:
+      213: -6479776373372530461
+    second: damla-tutan-3-assets-transformed_14
+  - first:
+      213: -9067976497998027217
+    second: damla-tutan-3-assets-transformed_15
+  - first:
+      213: 5659552588274259168
+    second: damla-tutan-3-assets-transformed_16
+  - first:
+      213: 9188854682072199915
+    second: damla-tutan-3-assets-transformed_17
+  - first:
+      213: -5401766964930332634
+    second: damla-tutan-3-assets-transformed_18
+  - first:
+      213: -6987502018750535385
+    second: damla-tutan-3-assets-transformed_19
+  - first:
+      213: -6768255682321220244
+    second: damla-tutan-3-assets-transformed_20
+  - first:
+      213: -8819049426393505205
+    second: damla-tutan-3-assets-transformed_21
+  - first:
+      213: -6908663270785868838
+    second: damla-tutan-3-assets-transformed_22
+  - first:
+      213: -1528301930580041695
+    second: damla-tutan-3-assets-transformed_23
+  - first:
+      213: -1011657271713420937
+    second: damla-tutan-3-assets-transformed_24
+  - first:
+      213: 5279422039042864296
+    second: damla-tutan-3-assets-transformed_25
+  - first:
+      213: 8038544751813993441
+    second: damla-tutan-3-assets-transformed_26
+  - first:
+      213: -6868867720574454570
+    second: damla-tutan-3-assets-transformed_27
+  - first:
+      213: -7795698658767206247
+    second: damla-tutan-3-assets-transformed_28
+  - first:
+      213: -5959744759706837852
+    second: damla-tutan-3-assets-transformed_29
+  - first:
+      213: 8441997560649801977
+    second: damla-tutan-3-assets-transformed_30
+  - first:
+      213: -8227151269090796264
+    second: damla-tutan-3-assets-transformed_31
+  - first:
+      213: 906351062445044337
+    second: damla-tutan-3-assets-transformed_32
+  - first:
+      213: 5816371205260511183
+    second: damla-tutan-3-assets-transformed_33
+  - first:
+      213: -14304108731258879
+    second: damla-tutan-3-assets-transformed_34
+  - first:
+      213: -261563589074523938
+    second: damla-tutan-3-assets-transformed_35
+  - first:
+      213: -6427362106356115887
+    second: damla-tutan-3-assets-transformed_36
+  - first:
+      213: -1743902214338584876
+    second: damla-tutan-3-assets-transformed_37
+  - first:
+      213: 5019634554779586098
+    second: damla-tutan-3-assets-transformed_38
+  - first:
+      213: 8802571364398393345
+    second: damla-tutan-3-assets-transformed_39
+  - first:
+      213: 4354501090409190233
+    second: damla-tutan-3-assets-transformed_40
+  - first:
+      213: -4027511527772149731
+    second: damla-tutan-3-assets-transformed_41
+  - first:
+      213: 2573160781352869641
+    second: damla-tutan-3-assets-transformed_42
+  - first:
+      213: -7226362332568292967
+    second: damla-tutan-3-assets-transformed_43
+  - first:
+      213: -2677760382276831282
+    second: damla-tutan-3-assets-transformed_46
+  - first:
+      213: -2125606499933364386
+    second: damla-tutan-3-assets-transformed_48
+  - first:
+      213: 6987505495225890618
+    second: damla-tutan-3-assets-transformed_49
+  - first:
+      213: -7221246737694732271
+    second: damla-tutan-3-assets-transformed_50
+  - first:
+      213: 1986637152561394825
+    second: damla-tutan-3-assets-transformed_51
+  - first:
+      213: 6793840658286640675
+    second: damla-tutan-3-assets-transformed_52
+  - first:
+      213: -6080589094292553241
+    second: damla-tutan-3-assets-transformed_53
+  - first:
+      213: 8213907263074192717
+    second: damla-tutan-3-assets-transformed_54
+  - first:
+      213: 4905663549722063643
+    second: damla-tutan-3-assets-transformed_62
+  - first:
+      213: -176331401870429492
+    second: damla-tutan-3-assets-transformed_65
+  - first:
+      213: -5566256556260129112
+    second: damla-tutan-3-assets-transformed_66
+  - first:
+      213: -5565413418720156656
+    second: damla-tutan-3-assets-transformed_67
+  - first:
+      213: -1991885933732272490
+    second: damla-tutan-3-assets-transformed_68
+  - first:
+      213: -4551146538058418430
+    second: damla-tutan-3-assets-transformed_69
+  - first:
+      213: -1428209889909046381
+    second: damla-tutan-3-assets-transformed_70
+  - first:
+      213: -8305350738091514568
+    second: damla-tutan-3-assets-transformed_45
+  - first:
+      213: -4136032743241682396
+    second: damla-tutan-3-assets-transformed_44
+  - first:
+      213: 125156436263415644
+    second: damla-tutan-3-assets-transformed_47
+  - first:
+      213: -4870420841509745015
+    second: damla-tutan-3-assets-transformed_55
+  - first:
+      213: -3457024987764920609
+    second: damla-tutan-3-assets-transformed_56
+  - first:
+      213: -8476797504552811549
+    second: damla-tutan-3-assets-transformed_57
+  - first:
+      213: -1623850500260350779
+    second: damla-tutan-3-assets-transformed_58
+  - first:
+      213: -5079766398594618222
+    second: damla-tutan-3-assets-transformed_59
+  - first:
+      213: -5715541168454912570
+    second: damla-tutan-3-assets-transformed_60
+  - first:
+      213: -7284682458450294484
+    second: damla-tutan-3-assets-transformed_61
+  - first:
+      213: 8618751345217873450
+    second: damla-tutan-3-assets-transformed_63
+  - first:
+      213: -4303627185836645795
+    second: damla-tutan-3-assets-transformed_64
+  - first:
+      213: 1552755330642940326
+    second: damla-tutan-3-assets-transformed_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 590
+        width: 190
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e16169b86710cc0800000000000000
+      internalID: -3746583073104978423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 591
+        width: 191
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ba49f607d195150800000000000000
+      internalID: 5861748758744967943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 591
+        width: 193
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ff8760adc958330800000000000000
+      internalID: 3712545928062238608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_3
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 586
+        width: 208
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c9856f9a693d850800000000000000
+      internalID: 6400625152150248541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_4
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 683
+        width: 144
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dc498630f26d6c0800000000000000
+      internalID: -4119053117497750118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_5
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 684
+        width: 145
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cfe1b89ac90af50800000000000000
+      internalID: 6890679681874328657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 462
+        width: 561
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0cc197b47c5cf50800000000000000
+      internalID: 6901141130983555239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_7
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 458
+        width: 146
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb9655c8e0b273d0800000000000000
+      internalID: -3210309070572053572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_8
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 454
+        width: 143
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43d1d8318af41ee0800000000000000
+      internalID: -1291131760237489332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_9
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 453
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c73ca6ba21db740800000000000000
+      internalID: 5169308474731101258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_10
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 456
+        width: 143
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1544c13fcce26c50800000000000000
+      internalID: 6657143573844346141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 286
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea31a6e8d39c3b00800000000000000
+      internalID: 809684592811391719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_12
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 270
+        width: 83
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475c778f56146c0c0800000000000000
+      internalID: -4555882066822576780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_13
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 292
+        width: 142
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0292f7630984611f0800000000000000
+      internalID: -1074591676854490848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_14
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 340
+        width: 143
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0592148b53316a0800000000000000
+      internalID: -6479776373372530461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_15
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 343
+        width: 141
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26ac355b63182280800000000000000
+      internalID: -9067976497998027217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_16
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 339
+        width: 142
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4dabbe715ca8e40800000000000000
+      internalID: 5659552588274259168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_17
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 340
+        width: 143
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2399116ae558f70800000000000000
+      internalID: 9188854682072199915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_18
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 229
+        width: 140
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62833efa0911905b0800000000000000
+      internalID: -5401766964930332634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_19
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 227
+        width: 141
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729ac017fe7670f90800000000000000
+      internalID: -6987502018750535385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_20
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 52
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d793211535212a0800000000000000
+      internalID: -6768255682321220244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42e333a5417c9580800000000000000
+      internalID: -8819049426393505205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 90
+        width: 112
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb1500eb5f7f10a0800000000000000
+      internalID: -6908663270785868838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_23
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 88
+        width: 116
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120ab3ecd716acae0800000000000000
+      internalID: -1528301930580041695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_24
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 107
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779a415421fd5f1f0800000000000000
+      internalID: -1011657271713420937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_25
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 88
+        width: 30
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4b4887f56444940800000000000000
+      internalID: 5279422039042864296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_26
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 105
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e324fa9cd5ae8f60800000000000000
+      internalID: 8038544751813993441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_27
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 75
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d433027331eca0a0800000000000000
+      internalID: -6868867720574454570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_28
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 122
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998013c8f5d10d390800000000000000
+      internalID: -7795698658767206247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_29
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 107
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac9da597bbba4da0800000000000000
+      internalID: -5959744759706837852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_30
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 125
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0ee35cd00082570800000000000000
+      internalID: 8441997560649801977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_31
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 84
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d5074928943dd80800000000000000
+      internalID: -8227151269090796264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_32
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 104
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172b5de3d71049c00800000000000000
+      internalID: 906351062445044337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_33
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 81
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc70d537bc6e7b050800000000000000
+      internalID: 5816371205260511183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_34
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 0
+        width: 120
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108ae382d7e2dcff0800000000000000
+      internalID: -14304108731258879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_35
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 104
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed869033d4dbe5cf0800000000000000
+      internalID: -261563589074523938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_36
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 90
+        width: 27
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15656d7c73c6dc6a0800000000000000
+      internalID: -6427362106356115887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_37
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 99
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ded457fc2a6cc7e0800000000000000
+      internalID: -1743902214338584876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_38
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 55
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ec9eb480359a540800000000000000
+      internalID: 5019634554779586098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_39
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 115
+        width: 85
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108edf49404092a70800000000000000
+      internalID: 8802571364398393345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_40
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 108
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95314ebabab4e6c30800000000000000
+      internalID: 4354501090409190233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_41
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 104
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18a95aaa976b18c0800000000000000
+      internalID: -4027511527772149731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_42
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 105
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f1182f814b5b320800000000000000
+      internalID: 2573160781352869641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_43
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 53
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991f005debdc6bb90800000000000000
+      internalID: -7226362332568292967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_46
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 55
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec776c4ae1fa6dad0800000000000000
+      internalID: -2677760382276831282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_48
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 54
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fd53776245082e0800000000000000
+      internalID: -2125606499933364386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_49
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 53
+        width: 76
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37770df93b98f060800000000000000
+      internalID: 6987505495225890618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_50
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 51
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110d1441a5af8cb90800000000000000
+      internalID: -7221246737694732271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_51
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 52
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984f300f6f3f19b10800000000000000
+      internalID: 1986637152561394825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_52
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 54
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ef7c95512984e50800000000000000
+      internalID: 6793840658286640675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_53
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 62
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e104916f686d9ba0800000000000000
+      internalID: -6080589094292553241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_54
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 52
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dc989f229adf170800000000000000
+      internalID: 8213907263074192717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_62
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 98
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13f3c4d10b641440800000000000000
+      internalID: 4905663549722063643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_65
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 225
+        width: 143
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc234c4368b8d8df0800000000000000
+      internalID: -176331401870429492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_66
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 225
+        width: 143
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a60d63472fa0c2b0800000000000000
+      internalID: -5566256556260129112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_67
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 339
+        width: 143
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0142ef48bfda3c2b0800000000000000
+      internalID: -5565413418720156656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_68
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 339
+        width: 143
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6966ac6fb466b54e0800000000000000
+      internalID: -1991885933732272490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_69
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 228
+        width: 141
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207774e265417d0c0800000000000000
+      internalID: -4551146538058418430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_70
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 227
+        width: 143
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393854f0caafd2ce0800000000000000
+      internalID: -1428209889909046381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_45
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 54
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835e601e1877dbc80800000000000000
+      internalID: -8305350738091514568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_44
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 457
+        width: 146
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422f1b7322cd996c0800000000000000
+      internalID: -4136032743241682396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_47
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 456
+        width: 147
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fa5dc9d15acb100800000000000000
+      internalID: 125156436263415644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_55
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 684
+        width: 144
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e072b9c0ac86cb0800000000000000
+      internalID: -4870420841509745015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_56
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 682
+        width: 144
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde6f98f61e2600d0800000000000000
+      internalID: -3457024987764920609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_57
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 566
+        width: 144
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e34634e49d5c5a80800000000000000
+      internalID: -8476797504552811549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_58
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 569
+        width: 144
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c434a3d29ce679e0800000000000000
+      internalID: -1623850500260350779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_59
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 568
+        width: 144
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c6dcdcf5b0189b0800000000000000
+      internalID: -5079766398594618222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_60
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 686
+        width: 145
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5bf1be6915ea0b0800000000000000
+      internalID: -5715541168454912570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_61
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 684
+        width: 145
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c290d8266eb97ea90800000000000000
+      internalID: -7284682458450294484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_63
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 568
+        width: 145
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26a1233fa4fb9770800000000000000
+      internalID: 8618751345217873450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_64
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 569
+        width: 145
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d522e7640e17644c0800000000000000
+      internalID: -4303627185836645795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damla-tutan-3-assets-transformed_71
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 568
+        width: 145
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a111121fbe7c8510800000000000000
+      internalID: 1552755330642940326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
